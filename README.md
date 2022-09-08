@@ -1,7 +1,7 @@
 Postgraduate on Artificial Intelligence @ Nanyang Technological University 
 
 ### Ask me about
-- [TPS](https://github.com/xing0047/TPS): domain adaptive video segmentation by temporal pseudo supervision
+- [TPS](https://github.com/xing0047/TPS): an effective approach for domain adaptation in video semantic segmentation
 
 
 
