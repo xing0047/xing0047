@@ -4,7 +4,7 @@ Postgraduate on Artificial Intelligence @ Nanyang Technological University
 - Semi-Supervised Learning
 - Unsupervised Domain Adaptation
 
-### Pinned Project
+### Pinned
 - [TPS](https://github.com/xing0047/TPS): a solution for domain adaptation in video semantic segmentation
 
 <!--
