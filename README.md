@@ -1,7 +1,7 @@
 Postgraduate on Artificial Intelligence @ Nanyang Technological University 
 
 ### Ask me about
-- [TPS](https://github.com/xing0047/TPS): an effective approach for domain adaptation in video semantic segmentation
+- [TPS](https://github.com/xing0047/TPS): a solution for domain adaptation in video semantic segmentation
 
 
 
