@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋
+I am currently a postgraduate on Artificial Intelligence at Nanyang Technological University. My research interests focus on unsupervised/semi-supervised learning in computer vision. Before that, I majored in BioMedical Engineering (BME) in Zhejiang University studying on embeded system design. Glad to share my thoughts with community 😄!
 
 <!--
 **xing0047/xing0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
