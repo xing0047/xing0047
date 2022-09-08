@@ -1,7 +1,7 @@
 Postgraduate on Artificial Intelligence @ Nanyang Technological University 
 
 ### Interested in
-- Semi Supervised Learning
+- Semi-Supervised Learning
 - Unsupervised Domain Adaptation
 
 ### Ask me about
