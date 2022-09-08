@@ -1,6 +1,8 @@
 Postgraduate on Artificial Intelligence @ Nanyang Technological University. 
 
-### Research Interest
+### Pinned Projects
+- [TPS](https://github.com/xing0047/TPS): domain adaptive video segmentation by temporal pseudo supervision.
+
 
 
 <!--
