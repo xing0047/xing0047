@@ -1,5 +1,9 @@
 Postgraduate on Artificial Intelligence @ Nanyang Technological University 
 
+### Interested in
+- Semi-Supervised Learning (SSL)
+- Unsupervised Domain Adaptation (UDA)
+
 ### Ask me about
 - [TPS](https://github.com/xing0047/TPS): a solution for domain adaptation in video semantic segmentation
 
