@@ -1,8 +1,8 @@
 Postgraduate on Artificial Intelligence @ Nanyang Technological University 
 
 ### Interested in
-- Semi Supervised Learning
-- Unsupervised Domain Adaptation
+- Vision-Language Pre-training/Adaptation
+- Generation for Perception
 
 ### Pinned
 - [TPS](https://github.com/xing0047/TPS): a solution for domain adaptation in video semantic segmentation
