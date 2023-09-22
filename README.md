@@ -1,7 +1,7 @@
 Postgraduate on Artificial Intelligence @ Nanyang Technological University 
 
 ### Interested in
-- Vision-Language Pre-training/Adaptation
+- Vision-Language Pre-training
 - Generation for Perception
 
 ### Pinned
