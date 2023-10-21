@@ -1,4 +1,4 @@
-Postgraduate on Artificial Intelligence @ Nanyang Technological University 
+Ph.D. Student on Artificial Intelligence @ Nanyang Technological University 
 
 ### Interested in
 - Vision-Language Pre-training
