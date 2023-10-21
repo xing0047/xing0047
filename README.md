@@ -2,7 +2,7 @@ Ph.D. Student on Artificial Intelligence @ Nanyang Technological University
 
 ### Interested in
 - Vision-Language Pre-training
-- Generation for Perception
+- Unsupervised Domain Adaptation
 
 ### Pinned
 - [TPS](https://github.com/xing0047/TPS)
