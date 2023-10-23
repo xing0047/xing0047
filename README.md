@@ -6,7 +6,7 @@ Ph.D. Student on Artificial Intelligence @ Nanyang Technological University
 
 ### Pinned
 - [TPS](https://github.com/xing0047/TPS)
-- [rewrite](https://github.com/xing0047/rewrite)
+- [CoCu](https://github.com/xing0047/CoCu)
 <!--
 **xing0047/xing0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
