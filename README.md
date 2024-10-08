@@ -1,8 +1,7 @@
 Ph.D. Student on Artificial Intelligence @ Nanyang Technological University 
 
 ### Interested in
-- Vision-Language Pre-training
-- Unsupervised Domain Adaptation
+- Vision-Language Model
 
 ### Pinned
 - [TPS](https://github.com/xing0047/TPS)
