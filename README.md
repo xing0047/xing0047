@@ -4,6 +4,7 @@ Ph.D. Student on Artificial Intelligence @ Nanyang Technological University
 - Vision-Language Model
 
 ### Pinned
+- [cca-llava](https://github.com/xing0047/cca-llava)
 - [TPS](https://github.com/xing0047/TPS)
 - [rewrite](https://github.com/xing0047/rewrite)
 <!--
