@@ -1,4 +1,4 @@
-Ph.D. Student on Artificial Intelligence @ Nanyang Technological University 
+Ph.D. Candidate on Artificial Intelligence @ Nanyang Technological University 
 
 ### Interested in
 - Vision-Language Model
