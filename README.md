@@ -5,6 +5,7 @@ Ph.D. Candidate on Artificial Intelligence @ Nanyang Technological University
 
 ### Pinned
 - [cca-llava](https://github.com/xing0047/cca-llava)
+- [CMM](https://github.com/DAMO-NLP-SG/CMM)
 - [rewrite](https://github.com/xing0047/rewrite)
 - [TPS](https://github.com/xing0047/TPS)
   
